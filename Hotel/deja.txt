@@ -1,0 +1,6 @@
+Nama = deja
+No HP = 081233187312
+Tanggal Check-in = 20-12-2017
+Tanggal Check-out = 21-12-2017
+Jenis Kamar = Deluxe Room
+Total Harga = 375000

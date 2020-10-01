@@ -1,0 +1,5 @@
+President Room Rp700000
+Suite Room Rp475000
+Deluxe Room Rp375000
+Business Room Rp300.000
+Standard Room Rp250000

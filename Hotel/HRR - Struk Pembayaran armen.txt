@@ -1,0 +1,9 @@
+Hotel Ratu Rajawali
+Struk Pembayaran
+
+Nama = armen
+No HP = 081311086241
+Tanggal Check-in = 12 17
+Tanggal Check-out = 12 20
+Jenis Kamar = Suite Room
+Total Harga = 475000

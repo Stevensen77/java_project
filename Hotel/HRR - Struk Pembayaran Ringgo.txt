@@ -1,0 +1,9 @@
+Hotel Ratu Rajawali
+Struk Pembayaran
+
+Nama = Ringgo
+No HP = 08123456789
+Tanggal Check-in = 20-09-2017
+Tanggal Check-out = 21-09-2017
+Jenis Kamar = President Room
+Total Harga = 700000

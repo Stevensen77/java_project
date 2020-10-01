@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="sumber"/>
+	<classpathentry kind="lib" path="D:/Semester 5/RPL III/Project POS/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STEVEN/eclipse-workspace/Point of Sales/JSplashScreen.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STEVEN/eclipse-workspace/Point of Sales/jdatepicker-1.3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

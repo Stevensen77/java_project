@@ -1,0 +1,8 @@
+Hotel Ratu Rajawali
+
+Nama = alex
+No HP = 0987654321
+Tanggal Check-in = 2 3
+Tanggal Check-out = 2 13
+Jenis Kamar = President Room
+Total Harga = 7000000
